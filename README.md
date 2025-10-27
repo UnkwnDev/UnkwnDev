@@ -30,26 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnkwnDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UnkwnDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=UnkwnDev&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff)
-
-</div>
-
----
-
-## 🕸️ Connect
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://unkwndev.itch.io)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/807977853907894303)
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=UnkwnDev&color=58a6ff&style=flat-square)
