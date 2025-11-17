@@ -27,6 +27,7 @@
 
 ## 🧩 Featured Projects
 🎮 [**Serve the Dead**](https://jaydenhawkes123.itch.io/serve-the-dead) – 3D Horror Diner Sim built in Godot for a 7 day game jam  
+🎮 [**Parasite Blaster**](https://palin-drome.itch.io/parasite-blaster) – 3D Horror Shooter built in Godot for a 7 day game jam  
 
 ---
 
