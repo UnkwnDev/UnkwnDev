@@ -3,13 +3,6 @@
 
 ## 🕶️ About Me
 > Game Developer
-
-- 🎮 Focused on **2D/3D Games**
-- 🧠 Skilled with **Godot** (primary) and **Unity**
-- 💻 Languages: **GDScript**, **C#**, **JavaScript**
-- 🌑 Style: **Dark, grounded, story-driven**
-- 🔧 Exploring **Multiplayer systems**, **Combat design**, and **Game feel**
-
 ---
 
 ## ⚙️ Tech Stack
